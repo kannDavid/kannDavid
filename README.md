@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm David 👋
 
-<!--
-**kannDavid/kannDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent Information Technology graduate from Florida International University with a strong interest in networking, cloud infrastructure, and cybersecurity.
 
-Here are some ideas to get you started:
+I hold the **CCNA, CompTIA Security+, and Network+** certifications and enjoy building hands-on labs to turn networking and infrastructure concepts into practical experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I'm Working On
+
+- 🌐 Building a physical Cisco enterprise networking homelab
+- ☁️ Developing Microsoft Azure cloud infrastructure and security labs
+- 🐧 Expanding my Linux administration and troubleshooting skills
+- 🔐 Practicing network security, segmentation, access control, and troubleshooting
+
+## 🛠️ Technical Skills
+
+**Networking:** Cisco IOS, VLANs, OSPF, HSRP, LACP EtherChannel, DHCP, NAT/PAT, ACLs, STP
+
+**Cloud:** Microsoft Azure, VNets, NSGs, Private Endpoints, Entra ID, RBAC, Azure Monitor, Log Analytics
+
+**Systems:** Windows, Active Directory, Linux, DNS, DHCP
+
+**Containers:** Docker, Azure Container Registry, Azure Container Instances
+
+## 📜 Certifications
+
+- Cisco Certified Network Associate (CCNA)
+- CompTIA Security+
+- CompTIA Network+
+
+## 🎯 Career Interests
+
+I'm pursuing opportunities in **network engineering, network security, IT infrastructure, and cloud/network support** while continuing to develop my technical skills through hands-on projects.

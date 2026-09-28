@@ -26,6 +26,7 @@ I hold the **CCNA, CompTIA Security+,Network+, AZ-900** certifications and enjoy
 - Cisco Certified Network Associate (CCNA)
 - CompTIA Security+
 - CompTIA Network+
+- Microsoft Azure Fundamentals (AZ-900)
 
 ## 🎯 Career Interests
 

@@ -2,7 +2,7 @@
 
 I'm a recent Information Technology graduate from Florida International University with a strong interest in networking, cloud infrastructure, and cybersecurity.
 
-I hold the **CCNA, CompTIA Security+, and Network+** certifications and enjoy building hands-on labs to turn networking and infrastructure concepts into practical experience.
+I hold the **CCNA, CompTIA Security+,Network+, AZ-900** certifications and enjoy building hands-on labs to turn networking and infrastructure concepts into practical experience.
 
 ## 🔧 What I'm Working On
 

@@ -17,7 +17,7 @@ I hold the **CCNA, CompTIA Security+,Network+, AZ-900** certifications and enjoy
 
 **Cloud:** Microsoft Azure, VNets, NSGs, Private Endpoints, Entra ID, RBAC, Azure Monitor, Log Analytics
 
-**Systems:** Windows, Active Directory, Linux, DNS, DHCP
+**Systems:** Windows, Active Directory, Linux, DNS, DHCP, VMware ESXI, Vcenter
 
 **Containers:** Docker, Azure Container Registry, Azure Container Instances
 
